@@ -17,6 +17,7 @@ excerpt: 百度前端学院基础课程 JavaScript 相关。
 **任务：** [JavaScript基础](https://github.com/Gaohaoyang/ife/tree/master/task/task0002)   
 
 做完任务一的时候深深地感觉到自己的基础非常的薄弱，在这里再次感谢一下百度前端技术学院，做任务的时候深刻理解了自己平时掌握不牢固的内容，比如浮动、BFC、等高布局等。继续加油吧！
+[![oQw65d.png](https://z3.ax1x.com/2021/11/29/oQw65d.png)](https://imgtu.com/i/oQw65d)
 
 -------
 
