@@ -3,7 +3,7 @@ layout: post
 title:  "Ccdc87 is critical for sperm function and male fertility"
 date:   2021-12-04 16:36
 categories: Front-end JavaScript
-excerpt: 百度前端学院基础课程 JavaScript 相关。
+excerpt: 小鼠精子发生文献。
 ---
 
 * content
