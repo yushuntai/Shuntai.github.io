@@ -1,31 +1,19 @@
 ---
 layout: post
-title:  " *Ccdc87* is critical for sperm function and male fertility"
+title:  " _Ccdc87_ is critical for sperm function and male fertility"
 date:   2021-12-04 16:36
 categories: Front-end JavaScript
 excerpt: 小鼠精子发生文献。
 ---
-
-**文章脉络与目录：**
-
 **原始文献：** [*Ccdc87* is critical for sperm function and male fertility](https://academic.oup.com/biolreprod/article/99/4/817/4992296)   
-
+**文章脉络与目录：**
 * content
 {:toc}
 **文章封面**
 ![](https://s3.bmp.ovh/imgs/2021/12/15295e0876cbc859.png)
-
-
-
-
-
 ## *Ccdc87* 基因在小鼠中的时空表达
-
 ![](https://s3.bmp.ovh/imgs/2021/12/d6d7a97d9c3d0482.png)
-
 D图是LacZ转基因小鼠的X-Gal显色结果。原理是用*Ccdc87*的promoter去驱动LacZ基因，该LacZ基因编码β-半乳糖苷酶，X-Gal是该酶的底物，可以显蓝色。所以*Ccdc87*表达的区域就会显示蓝色，从而可以知道表达的区域。 *Ccdc87* mRNA 和蛋白质仅在睾丸中表达，主要限于粗线期精母细胞和精子细胞。因为CCDC87 没有很好的抗体，他们做定位才这么做的。并且用LacZ将*Ccdc87*替换掉既敲除了基因又可以做定位，一举两得。
-
-
 ## 建立*Ccdc87* 基因敲除小鼠模型
 
 
