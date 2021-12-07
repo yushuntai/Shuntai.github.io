@@ -17,8 +17,8 @@ excerpt: 小鼠精子发生文献。
 [![ogQwxP.png](https://s4.ax1x.com/2021/12/07/ogQwxP.png)](https://imgtu.com/i/ogQwxP)
 
 Ccnyl1 突变小鼠显示精子成熟缺陷
-1A) Wnt 的辅助受体LRP6可以被Ccny及其靶激酶CDK14以细胞周期依赖性方式激活，示意图如1A。
-1B) qPCR看下WT小鼠各组织中Ccny  和  Ccnyl1  的转录水平，Ccny和Ccnyl1是同源蛋白，内参为HPRT。
+1A) Wnt 的辅助受体LRP6可以被Ccny及其靶激酶CDK14以细胞周期依赖性方式激活，示意图如1A。\t
+1B) qPCR看下WT小鼠各组织中Ccny  和  Ccnyl1  的转录水平，Ccny和Ccnyl1是同源蛋白，内参为HPRT。
 1C) 睾丸裂解物做WB看下敲的是否干净。
 1D) 显微镜明场显示Ccnyl1 -/-附睾尾精子的轴突缺陷，箭头所示。
 1E) 缺陷处的电镜图，显示Ccnyl1 -/-精子的轴突弯曲和变形线粒体（箭头所示）。
