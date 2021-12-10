@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "前端的一些资料和工具"
-date:   2015-05-18 14:06:05
+title:  "NIS-Viewer使用方法"
+date:   2021-12-10 14:06:05
 categories: Front-end
-excerpt: 记录一些好用的前端工具和框架。
+excerpt: 科研小技巧。
 ---
 
 * content
