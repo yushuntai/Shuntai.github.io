@@ -4,7 +4,7 @@ title:  " Gibson法构建ANKRD5过表达载体"
 tags: 实验方法
 date:   2022-01-27
 categories: Front-end JavaScript
-excerpt: ANKRD5相关文献。
+excerpt: 实验方法
 ---
 
 
@@ -50,7 +50,20 @@ excerpt: ANKRD5相关文献。
 
  RNase free water             up to 10µL
 
+
+
+
+|成分|加量|
+|:---:|:---:|
+|5X gDNA clean Reaction Mix|2µL|
+|Total RNA|1µg左右|
+|RNase free water|up to 10µL|
+
  反应条件： **42℃ 2min   4℃ ∞ **
+
+
+
+
 
 
 
