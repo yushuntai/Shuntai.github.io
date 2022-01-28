@@ -44,38 +44,28 @@ excerpt: 实验方法
 
 #### 1) 去除基因组DNA：
 
- 5X gDNA clean Reaction Mix   2µL
-
- Total RNA                                    1µg左右
-
- RNase free water             up to 10µL
-
-
-
-
 |成分|加量|
 |:---:|:---:|
 |5X gDNA clean Reaction Mix|2µL|
 |Total RNA|1µg左右|
 |RNase free water|up to 10µL|
 
- 反应条件： **42℃ 2min   4℃ ∞ **
-
-
-
-
-
-
+ 反应条件： 42℃   2min   4℃   ∞ 
 
 #### 2) 反转录反应：
 
  步骤2）反应液                                10 µL
-
- 5X Evo M-MLV RT Reaction Mix   4  µL
-
+5X Evo M-MLV RT Reaction Mix   4  µL
  RNase free water                           6 µL
-
- 反应条件：**37℃ 15 min    85℃ 5 sec    4℃ ∞**
+ 
+ 
+|成分|加量|
+|:---:|:---:|
+|步骤2）反应液|10 µL|
+|5X Evo M-MLV RT Reaction Mix|4 µL|
+|RNase free water|6 µL|
+ 
+反应条件：37℃   15 min   85℃   5 sec   4℃   ∞
 
 反转录所得cDNA可以冻存在-20℃冰箱，提取的RNA可东存在-80℃冰箱。
 
