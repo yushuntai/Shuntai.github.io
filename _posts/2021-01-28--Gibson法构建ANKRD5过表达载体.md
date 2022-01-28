@@ -53,11 +53,6 @@ excerpt: 实验方法
  反应条件： 42℃   2min   4℃   ∞ 
 
 #### 2) 反转录反应：
-
- 步骤2）反应液                                10 µL
-5X Evo M-MLV RT Reaction Mix   4  µL
- RNase free water                           6 µL
- 
  
 |成分|加量|
 |:---:|:---:|
@@ -90,6 +85,19 @@ Age I    	 	   1µL
 Cutsmart 		4µL
 
 H2O   	 补足40 µL
+
+
+|成分|加量|
+|:---:|:---:|
+|Plasmid|1 µg|
+|Hind III|1 µL|
+|Age I|1 µL|
+|Cutsmart |4 µL|
+|H2O| 补足40 µL|
+
+
+
+
 
 酶切条件：**37℃ 3h 酶切质粒**
 
