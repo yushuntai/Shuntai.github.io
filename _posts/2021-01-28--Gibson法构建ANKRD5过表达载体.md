@@ -168,6 +168,17 @@ Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculat
 Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculator的excel文件可以进行计算），50℃ 50min的条件进行连接。 
 
 
+
+|成分|加量|
+|:---:|:---:|
+|Plasmid|1 µg|
+|Hind III|1 µL|
+|Age I|1 µL|
+|Cutsmart |4 µL|
+|H2O| 补足40 µL|
+
+
+
 ### 1）连接产物转化感受态
 
 5 µL连接产物转化感受态（用的博迈德的Trans10感受态）。
