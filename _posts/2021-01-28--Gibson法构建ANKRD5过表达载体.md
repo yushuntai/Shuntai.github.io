@@ -213,6 +213,19 @@ Tag酶  		 0.3 µL
 
 H2O  		 14.9 µL
 
+
+|成分|加量|
+|:---:|:---:|
+|10X buffer|2 µL|
+|dNTP|1.5 µL|
+|F|0.3 µL|
+|R|0.3 µL|
+|Tag酶|0.3 µL|
+|H2O| 14.9 µL|
+
+
+
+
 [![7jSTne.png](https://s4.ax1x.com/2022/01/27/7jSTne.png)](https://imgtu.com/i/7jSTne)
 
 **菌液PCR结果如下：**
