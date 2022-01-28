@@ -98,7 +98,7 @@ excerpt: 实验方法
 
 [ANKRD5蛋白编码序列](https://www.ncbi.nlm.nih.gov/nuccore/NM_175667.4)
 
-## **第四步：引物设计和分段PCR**
+## 第四步：引物设计和分段PCR
 
 通过对引物进行设计使cDNA两端带上载体骨架同源臂（分两次P）。
 
@@ -139,15 +139,11 @@ excerpt: 实验方法
 
  总体系 25 µl，PCR仪器有现成的PCR程序可用，P两管做胶回收。
 
-
-
 每管还可以加入0.2~0.3微升的DMSO，DMSO利于减少DNA的二级结构，使G、C含量高的模板易于完全变性，从而提高PCR特异性，帮助扩增一些难扩的模板。但要摸索，量大的话会抑制扩增，而且最好用于扩增1KB以上模板。
 
 [![7XzmGV.png](https://s4.ax1x.com/2022/01/27/7XzmGV.png)](https://imgtu.com/i/7XzmGV)
 
-
-
-## **第五步：Gibson连接**
+## 第五步：Gibson连接
 
 **Gibson连接体系：**
 
@@ -191,9 +187,6 @@ Vector 和目的片段 **1:3** 的摩尔比进行配比（有一个ligation Calc
 |R|0.3 µL|
 |Tag酶|0.3 µL|
 |H2O| 14.9 µL|
-
-
-
 
 [![7jSTne.png](https://s4.ax1x.com/2022/01/27/7jSTne.png)](https://imgtu.com/i/7jSTne)
 
