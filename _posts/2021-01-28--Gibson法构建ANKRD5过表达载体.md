@@ -171,11 +171,11 @@ Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculat
 
 |成分|加量|
 |:---:|:---:|
-|Plasmid|1 µg|
-|Hind III|1 µL|
-|Age I|1 µL|
-|Cutsmart |4 µL|
-|H2O| 补足40 µL|
+|Gibson酶|5 µL(预分装的，-20℃保存)|
+|带载体骨架同源臂的cDNA|？ µL|
+|载体骨架|？ µL|
+
+Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculator的excel文件可以进行计算），50℃ 50min的条件进行连接。
 
 
 
