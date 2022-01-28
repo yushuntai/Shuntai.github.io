@@ -151,31 +151,13 @@ excerpt: 实验方法
 
 **Gibson连接体系：**
 
-Gibson酶         							 5 µL(预分装的，-20℃保存) 
-
-带载体骨架同源臂的cDNA     	？µL
-
-载体骨架         							  ？µL
-
-Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculator的excel文件可以进行计算），50℃ 50min的条件进行连接。 
-
-
-|成分|加量|
-|:---:|:---:|
-|Gibson酶|5 µL(预分装的，-20℃保存)|
-|带载体骨架同源臂的cDNA|？µL|
-|载体骨架|？ µL|
-Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculator的excel文件可以进行计算），50℃ 50min的条件进行连接。 
-
-
-
 |成分|加量|
 |:---:|:---:|
 |Gibson酶|5 µL(预分装的，-20℃保存)|
 |带载体骨架同源臂的cDNA|？ µL|
 |载体骨架|？ µL|
 
-Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculator的excel文件可以进行计算），50℃ 50min的条件进行连接。
+Vector 和目的片段 **1:3** 的摩尔比进行配比（有一个ligation Calculator的excel文件可以进行计算），**50℃ 50min**的条件进行连接。
 
 
 
@@ -200,19 +182,6 @@ Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculat
 ### 2）菌液PCR克隆鉴定
 
 **菌液 PCR体系：**
-
-10X buffer  	2 µL
-
-dNTP   		 1.5 µL 
-
-F    				0.3 µL
-
-R   				0.3 µL
-
-Tag酶  		 0.3 µL
-
-H2O  		 14.9 µL
-
 
 |成分|加量|
 |:---:|:---:|
