@@ -60,7 +60,7 @@ excerpt: 实验方法
 |5X Evo M-MLV RT Reaction Mix|4 µL|
 |RNase free water|6 µL|
  
-反应条件：37℃   15 min   85℃   5 sec   4℃   ∞
+反应条件：**37℃   15 min   85℃   5 sec   4℃   ∞**
 
 反转录所得cDNA可以冻存在-20℃冰箱，提取的RNA可东存在-80℃冰箱。
 
@@ -75,17 +75,6 @@ excerpt: 实验方法
 1） 质粒用Hind III 和 AgeI进行酶切。
 
 **具体步骤：**
-
-Plasmid   		1µg
-
-Hind III  		  1µL
-
-Age I    	 	   1µL
-
-Cutsmart 		4µL
-
-H2O   	 补足40 µL
-
 
 |成分|加量|
 |:---:|:---:|
@@ -123,16 +112,13 @@ H2O   	 补足40 µL
 
 
 **Q5 PCR 体系：**
-
-Q5酶   12.5 µL (预分装的)  速度：1min 2k
-
-cDNA  	 0.5 µL
-
-F  		    0.6 µL
-
-R    		 0.6 µL
-
-H2O 	 10.8 µl
+|成分|加量|
+|:---:|:---:|
+|Q5酶 |  12.5 µL (预分装的)  速度：1min 2k|
+|cDNA|  	 0.5 µL|
+|F | 		    0.6 µL|
+|R |   		 0.6 µL|
+|H2O| 	 10.8 µl|
 
  总体系 25 µl，PCR仪器有现成的PCR程序可用，P两管做胶回收。
 
