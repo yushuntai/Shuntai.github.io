@@ -127,21 +127,6 @@ excerpt: 实验方法
 
 **Primer STAR PCR 体系：**
 
-5x buffer 			10 µL
-
-dNTP    			 	4 µL 
-
-cDNA  				   1 µL
-
-F     					 0.5 µL
-
-R    				 	0.5 µL
-
-酶   				    0.5 µL
-
-H2O  			   33.5 µl
-
-
 |成分|加量|
 |:---:|:---:|
 |5x buffer|10 µL|
@@ -178,7 +163,7 @@ Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculat
 |成分|加量|
 |:---:|:---:|
 |Gibson酶|5 µL(预分装的，-20℃保存)|
-|带载体骨架同源臂的cDNA|？ µL|
+|带载体骨架同源臂的cDNA|？µL|
 |载体骨架|？ µL|
 Vector 和目的片段 1:3 的摩尔比进行配比（有一个ligation Calculator的excel文件可以进行计算），50℃ 50min的条件进行连接。 
 
