@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  " Gibson法构建ANKRD5过表达载体"
-tags: 实验方法
+tags: 实验方法与科研小技巧
 date:   2022-01-27
 categories: Front-end JavaScript
-excerpt: 实验方法
+excerpt: 实验方法与科研小技巧
 ---
 
 
