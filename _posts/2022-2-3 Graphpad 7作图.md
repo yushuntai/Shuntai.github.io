@@ -4,7 +4,7 @@ title:  " Graphpad 7作图"
 tags: 实验方法
 date:   2022-01-27
 categories: Front-end JavaScript
-excerpt: 实验方法
+excerpt: 实验方法与科研小技巧
 ---
 
 
