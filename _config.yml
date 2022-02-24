@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Nottt Pure Poole
+description: A stupid, beautiful, and powerful Jekyll theme for blogs
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Shuntai Yu
+  url: https://github.com/yushuntai/
+  email: 1901111486@pku.edu.cn
