@@ -98,6 +98,9 @@ excerpt: 实验方法与科研小技巧
 
 [ANKRD5蛋白编码序列](https://www.ncbi.nlm.nih.gov/nuccore/NM_175667.4)
 
+[查找基因序列和CDS序列的方法](http://www.360doc.com/content/18/0428/15/48272598_749455980.shtml)  
+
+
 ## 第四步：引物设计和分段PCR
 
 通过对引物进行设计使cDNA两端带上载体骨架同源臂（分两次P）。
