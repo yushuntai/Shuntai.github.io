@@ -12,12 +12,14 @@ excerpt: 实验方法与科研小技巧
 
 2）在上图黑色箭头，111处插入文献。
 找到这篇参考文献——点击Google Scholar——引用——Endnote——打开——选好存放位置——开始导入——点击确定——选中该文献——回到word，光标放在要插入该文献位置——插入引文
-![image](https://user-images.githubusercontent.com/61654690/175878236-a5c5cd32-9b56-4d99-a701-275a2bf145b0.png)
+[![jVnFfS.png](https://s1.ax1x.com/2022/06/27/jVnFfS.png)](https://imgtu.com/i/jVnFfS)
+
+
 
 
 3）在数据库中对重复文献去重复。
 查重——查找——选中重复的文献——从所有文件夹中删除
-![image](https://user-images.githubusercontent.com/61654690/175878338-9ef8f07d-1369-4468-83d7-751778a77c9c.png)
+![image](https://user-images.githubusercontent.com/61654690/175879090-de084164-cb3b-4188-801e-3bf5360af4ea.png)
 
 
 
