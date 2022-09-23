@@ -47,7 +47,7 @@ excerpt: 实验方法与科研小技巧
 调节PH
 
 **0.5M EDTA PH=8.0配方（100mL总体系）：**<br>
-14.612g EDTA + 6.7g NaOH片，先加85mLddH2O溶，因为6.7g左右NaOH片可使体积增加10mL左右。
+14.612g EDTA + 6.7g NaOH片，先加85mLddH2O溶，因为6.7g左右NaOH片可使体积增加10mL左右，然后再调PH值。
 
 ## 实验步骤
 1）一只WT鼠和一只ANKRD5-cFLAG鼠，两侧epi cauda，置于500uL 37℃预热的PBS中，释放精子1h；<br>
