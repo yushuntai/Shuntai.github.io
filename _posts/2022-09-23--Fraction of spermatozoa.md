@@ -13,15 +13,29 @@ excerpt: 实验方法与科研小技巧
 * content
 {:toc}
 
-1% TritonX-100 PH=7.5
+1% Triton X-100 PH=7.5
 
 | 成分|50mL体系加量   |
 | :----: | :------: |
 | 50mM NaCl |  0.1461g |
 | 20mM Tris-HCl |  1mL 1M的母液 |
-| TritonX-100 |  500uL |
+| Triton X-100 |  500uL |
 
 调节PH
+
+1% SDS PH=6.0
+
+| 成分|50mL体系加量   |
+| :----: | :------: |
+| 75mM NaCl |  0.21915g |
+| 24mM EDTA |  2.4mL 0.5M的母液 |
+| SDS |  0.5g |
+
+调节PH
+
+
+
+
 
 
 ## Western Lysis buffer配置：
