@@ -13,14 +13,15 @@ excerpt: 实验方法与科研小技巧
 * content
 {:toc}
 
+1% TritonX-100 PH=7.5
 
-| 分离胶浓度|线性分离范围   |
+| 成分|50mL体系加量   |
 | :----: | :------: |
-| 6% |  50-150KDa |
-| 8% |  30-90KDa |
-| 10% |  20-80KDa |
-| 12% |  12-60KDa |
-| 15% | 10-40KDa  |
+| 50mM NaCl |  0.1461g |
+| 20mM Tris-HCl |  1mL 1M的母液 |
+| TritonX-100 |  500uL |
+
+调节PH
 
 
 ## Western Lysis buffer配置：
