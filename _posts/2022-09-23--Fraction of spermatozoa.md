@@ -60,7 +60,8 @@ excerpt: 实验方法与科研小技巧
 8）沉淀用200uL 1% SDS裂解液洗两遍；<br>
 9）100uL Sample buffer裂解液重悬，100℃煮10min，取上清为SDS-resistant fraction；<br>
 
-从左到右上样孔分别为：Marker(3uL)、WT-Triton-soluble(20uL)、WT-SDS-soluble(20uL)、WT-SDS-resistant(20uL)、A5-cFLAG-Triton-soluble(20uL)、A5-cFLAG-SDS-soluble(20uL)、A5-cFLAG-SDS-resistant(20uL)、Marker(10uL)
+从左到右上样孔分别为：Marker(3uL)、WT-Triton-soluble(20uL)、WT-SDS-soluble(20uL)、WT-SDS-resistant(20uL)、A5-cFLAG-Triton-soluble(20uL)、A5-cFLAG-SDS-soluble(20uL)、A5-cFLAG-SDS-resistant(20uL)、Marker(10uL)<br>
+还有一个膜是各上样50uL，FLAG比较清晰，而AcetTUB过曝严重。
 
 
 anti-FLAG(M2) 1:5000<br>
@@ -69,3 +70,4 @@ anti-AcetTUB sigma T7451 1:1000<br>
 二抗：1:5000 室温1.5h<br>
 中间TBST每10min洗一次，共3次<br>
 5%脱脂奶粉封的有点久，估计有两三个小时。<br>
+
