@@ -13,6 +13,8 @@ excerpt: 实验方法与科研小技巧
 * content
 {:toc}
 
+## 溶液配方
+
 **1% Triton X-100 PH=7.5**
 
 | 成分|50mL体系加量   |
@@ -61,7 +63,7 @@ excerpt: 实验方法与科研小技巧
 从左到右上样孔分别为：Marker(3uL)、WT-Triton-soluble(20uL)、WT-SDS-soluble(20uL)、WT-SDS-resistant(20uL)、A5-cFLAG-Triton-soluble(20uL)、A5-cFLAG-SDS-soluble(20uL)、A5-cFLAG-SDS-resistant(20uL)、Marker(10uL)
 
 
-anti-FLAG(M2) 1:5000
-anti-AcetTUB sigma T7451 1:1000
-一抗：4℃过夜
-二抗：1:5000 室温1.5h
+anti-FLAG(M2) 1:5000<br>
+anti-AcetTUB sigma T7451 1:1000<br>
+一抗：4℃过夜<br>
+二抗：1:5000 室温1.5h<br>
