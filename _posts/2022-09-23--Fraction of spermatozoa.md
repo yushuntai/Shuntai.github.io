@@ -67,3 +67,5 @@ anti-FLAG(M2) 1:5000<br>
 anti-AcetTUB sigma T7451 1:1000<br>
 一抗：4℃过夜<br>
 二抗：1:5000 室温1.5h<br>
+中间TBST每10min洗一次，共3次<br>
+5%脱脂奶粉封的有点久，估计有两三个小时。<br>
