@@ -52,7 +52,8 @@ excerpt: 实验方法与科研小技巧
 2）弃组织，4℃ 1500g 10min离心，500uL PBS重悬，洗一遍；<br>
 3）100uL 1% Triton X-100裂解液重悬精子，4℃ 2h；<br>
 4）4℃ 1500g 10min离心，取上清为Triton-soluble fraction；<br>
-5）
+5）沉淀用200uL的1% Triton X-100裂解液洗两遍；<br>
+6）
 
 
 
