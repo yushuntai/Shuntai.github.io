@@ -20,6 +20,7 @@ excerpt: 实验方法与科研小技巧
 | 50mM NaCl |  0.1461g |
 | 20mM Tris-HCl |  1mL 1M的母液 |
 | Triton X-100 |  500uL |
+
 调节PH
 
 **1% SDS PH=6.0**
@@ -29,6 +30,7 @@ excerpt: 实验方法与科研小技巧
 | 75mM NaCl |  0.21915g |
 | 24mM EDTA |  2.4mL 0.5M的母液 |
 | 1% SDS |  0.5g |
+
 调节PH
 
 **Sample buffer**
@@ -39,10 +41,21 @@ excerpt: 实验方法与科研小技巧
 | 2% SDS |  1g |
 | 10% 甘油 |  5mL |
 | 0.005溴酚蓝 |  2.5mg |
+
 调节PH
 
-0.5M EDTA PH=8.0配方（100mL总体系）：
+**0.5M EDTA PH=8.0配方（100mL总体系）：**
 14.612g EDTA + 6.7g NaOH片，先加85mLddH2O溶，因为6.7g左右NaOH片可使体积增加10mL左右。
+
+## 实验步骤
+1）一只WT鼠和一只ANKRD5-cFLAG鼠，两侧epi cauda，置于500uL 37℃预热的PBS中，释放精子1h；<br>
+2）弃组织，4℃ 1500g 10min离心，500uL PBS重悬，洗一遍；<br>
+3）100uL 1% Triton X-100裂解液重悬精子，4℃ 2h；<br>
+4）4℃ 1500g 10min离心，取上清为Triton-soluble fraction；<br>
+5）
+
+
+
 
 
 
