@@ -44,7 +44,7 @@ excerpt: 实验方法与科研小技巧
 
 调节PH
 
-**0.5M EDTA PH=8.0配方（100mL总体系）：**
+**0.5M EDTA PH=8.0配方（100mL总体系）：**<br>
 14.612g EDTA + 6.7g NaOH片，先加85mLddH2O溶，因为6.7g左右NaOH片可使体积增加10mL左右。
 
 ## 实验步骤
@@ -53,8 +53,10 @@ excerpt: 实验方法与科研小技巧
 3）100uL 1% Triton X-100裂解液重悬精子，4℃ 2h；<br>
 4）4℃ 1500g 10min离心，取上清为Triton-soluble fraction；<br>
 5）沉淀用200uL的1% Triton X-100裂解液洗两遍；<br>
-6）
-
+6）1% SDS裂解液重悬精子，室温 1h 每15min涡旋震荡一下；<br>
+7）室温1500g 10min离心，取上清为SDS-soluble fraction；<br>
+8）沉淀用200uL 1% SDS裂解液洗两遍；<br>
+9）100uL Sample buffer裂解液重悬，100℃煮10min，取上清为SDS-resistant fraction；<br>
 
 
 
