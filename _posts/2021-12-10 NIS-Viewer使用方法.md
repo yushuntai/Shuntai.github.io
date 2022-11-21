@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  "NIS-Viewer 使用方法"
+title:  " Gibson法构建ANKRD5过表达载体"
+tags: 实验方法与科研小技巧
 date:   2021-12-10
 categories: Front-end JavaScript
-excerpt: 科研小技巧。
+excerpt: 实验方法与科研小技巧
 ---
+
+
+
+
+
+
 
 **主要参考** [NIS-Viewer使用指南](http://phoenix.tsinghua.edu.cn/index.php?c=show&id=321)   
 上面那个链接是清华大学蛋白质研究技术中心的教程，每一部分写的都很详细，但是里面图片导出部分与我的实际情况不符合。我实际的图片导出方法如下图所示：
