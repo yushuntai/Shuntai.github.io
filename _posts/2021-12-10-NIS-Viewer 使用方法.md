@@ -29,4 +29,5 @@ excerpt: 实验方法与科研小技巧
 [![ooZ5O1.png](https://s1.ax1x.com/2021/12/10/ooZ5O1.png)](https://imgtu.com/i/ooZ5O1)
 
 这样可以导出彩色的图。
+余顺太
 
