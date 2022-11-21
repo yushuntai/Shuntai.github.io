@@ -1,13 +1,26 @@
 ---
 layout: post
-title:  "NIS-Viewer使用方法"
-date:   2021-12-10 14:06:05
-categories: Front-end
-excerpt: 科研小技巧。
+title:  " NIS-Viewer 使用方法"
+tags: 实验方法与科研小技巧
+date:   2021-12-10
+categories: Front-end JavaScript
+excerpt: 实验方法与科研小技巧
 ---
+
+
+**目录：**
 
 * content
 {:toc}
+
+# Gibson法构建TCTE1-cMYC过表达载体
+
+
+## 第一步：通过RNA提取和反转录获得cDNA
+
+
+
+
 
 
 **主要参考** [NIS-Viewer使用指南](http://phoenix.tsinghua.edu.cn/index.php?c=show&id=321)   
