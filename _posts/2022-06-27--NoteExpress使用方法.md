@@ -35,6 +35,11 @@ excerpt: 实验方法与科研小技巧
 
 ![image](https://user-images.githubusercontent.com/61654690/221339530-d5050049-3098-44e5-a180-ff40b04c8bea.png)
 
+# 文献插入
+
+Word中插入文献——在library中选中文献——word中找到要插入的地方——选择引用
+
+![image](https://user-images.githubusercontent.com/61654690/221339605-f5dd6ce6-aba4-41ef-90b7-83b4adaa7894.png)
 
 
 
