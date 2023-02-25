@@ -29,7 +29,9 @@ excerpt: 实验方法与科研小技巧
 
 ![image](https://user-images.githubusercontent.com/61654690/221339018-e748934d-91ba-4a50-b41d-c9983cdb3427.png)
 
-如果文章中的参考文献所在的library挪动过，则需要如下方式来打开数据库，一旦打开过一次，下次打开word会自动链接到这里，每次挪动位置都需要这样设置一下。
+# 若文章中的参考文献所在的library挪动过
+
+则需要如下方式来打开数据库，一旦打开过一次，下次打开word会自动链接到这里，每次挪动位置都需要这样设置一下。
 
 ![image](https://user-images.githubusercontent.com/61654690/221339530-d5050049-3098-44e5-a180-ff40b04c8bea.png)
 
