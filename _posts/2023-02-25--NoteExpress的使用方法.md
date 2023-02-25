@@ -84,7 +84,7 @@ Word中插入文献——在library中选中文献——word中找到要插入�
 
 比如先将 loss of DRC1 function leads to multiple morphological abnormalities of the sperm  flagella and male infertility in human and mouse 这篇文献在word文章中的插入位置标出
 
-![image](https://user-images.githubusercontent.com/61654690/221345420-95e62d3e-6ab6-48d4-a828-5605e6372a81.png)
+![image](https://user-images.githubusercontent.com/61654690/221346056-13da2bc6-dd76-4e0c-a824-b16d9950694d.png)
 
 将光标放在红星处——**定位引文** 可以找到引文12在文档中的位置（提前将位置标记好，后面在library文档中的文件夹中删除之后将无法采用这种方法定位引文，能被定位的只能是文件夹中有的文献）——编辑引文——删除——确定——将library中该文件夹中重复文献去掉——
 
