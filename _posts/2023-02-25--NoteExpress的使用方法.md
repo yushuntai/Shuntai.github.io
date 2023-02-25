@@ -81,7 +81,9 @@ Word中插入文献——在library中选中文献——word中找到要插入�
 ![image](https://user-images.githubusercontent.com/61654690/221345370-61518265-26d7-471a-ac6b-5a8eda99f2b6.png)
 这里删除的时候先将某一篇重复文献删除，然后再删除其他重复文献，这样方便我们定位引文（比如先删除黑色星星对应的两篇文章，紫色的先不删除，因为这里删除之后，word文档中就无法再对这些文章所对应在文中的位置进行**定位引文**操作了）。
 
+## 在word中搜索重复的文献
 
+![image](https://user-images.githubusercontent.com/61654690/221345420-95e62d3e-6ab6-48d4-a828-5605e6372a81.png)
 
 
 
