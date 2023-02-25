@@ -20,16 +20,13 @@ excerpt: 实验方法与科研小技巧
 
 ![image](https://user-images.githubusercontent.com/61654690/221338982-c4113e78-c34b-4fbe-ac75-752728285993.png)
 
+光标放在参考文献处；点击定位引文。如果文中参考文献是两篇及以上，则结果是以list形式展现，如下所示：
 
-
-![image](https://user-images.githubusercontent.com/61654690/221338957-5c2ceda9-cb85-4a67-a2ab-7a81428b7669.png)
-
-
+![image](https://user-images.githubusercontent.com/61654690/221339018-e748934d-91ba-4a50-b41d-c9983cdb3427.png)
 
 
 
 
-![image](https://user-images.githubusercontent.com/61654690/221338933-459fcbed-fa58-46ed-a895-5025bdedef42.png)
 
 
 
