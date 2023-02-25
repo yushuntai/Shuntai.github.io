@@ -37,6 +37,15 @@ excerpt: 实验方法与科研小技巧
 
 # 文献插入
 
+## 在library中建立新的文件夹
+题录——添加文件夹——在线检索——搜索pubmed——
+
+![image](https://user-images.githubusercontent.com/61654690/221340943-7c887e1b-3df0-44af-82dd-a8317c6e38c6.png)
+
+选中文献——word中选择引用即可在word中插入文献
+
+![image](https://user-images.githubusercontent.com/61654690/221340966-81bef8f5-7c0a-4989-96fd-8ca98b4cf3d0.png)
+
 Word中插入文献——在library中选中文献——word中找到要插入的地方——选择引用
 
 ![image](https://user-images.githubusercontent.com/61654690/221339605-f5dd6ce6-aba4-41ef-90b7-83b4adaa7894.png)
