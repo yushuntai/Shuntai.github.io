@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " NoteExpress文献插入更快的方法"
+title:  " NoteExpress使用方法"
 date:   2022-06-27
 tags: 实验方法与科研小技巧
 categories: Front-end JavaScript
@@ -11,6 +11,29 @@ excerpt: 实验方法与科研小技巧
 # 找到文章中参考文献所对应的library
 
 ![图片2](https://user-images.githubusercontent.com/61654690/221338814-bdff4f39-b0c5-46d6-b8aa-f3ac392fab7f.png)
+
+# 若打开word之后，找不到NoteExpress
+
+解决方法：关掉word——先打开NoteExpress library——再打开word——此时word里面就出现了NoteExpress。
+
+# 从文档中迅速对文献进行定位
+
+![image](https://user-images.githubusercontent.com/61654690/221338982-c4113e78-c34b-4fbe-ac75-752728285993.png)
+
+
+
+![image](https://user-images.githubusercontent.com/61654690/221338957-5c2ceda9-cb85-4a67-a2ab-7a81428b7669.png)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/61654690/221338933-459fcbed-fa58-46ed-a895-5025bdedef42.png)
+
+
+
+
 
 
 1）建立一个专门的数据库：点击 转到NoteExpress——数据库——新建数据库(记住该数据库存放的位置，有时候打开word，点转到NoteExpress的时候不会自动打开，这时候需要去该数据库存放的位置，手动点开。数据库中还可以再建立子数据库，就不一一列举。)
