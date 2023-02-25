@@ -29,6 +29,14 @@ excerpt: 实验方法与科研小技巧
 
 ![image](https://user-images.githubusercontent.com/61654690/221339018-e748934d-91ba-4a50-b41d-c9983cdb3427.png)
 
+如果文章中的参考文献所在的library挪动过，则需要如下方式来打开数据库，一旦打开过一次，下次打开word会自动链接到这里，每次挪动位置都需要这样设置一下。
+
+![image](https://user-images.githubusercontent.com/61654690/221339530-d5050049-3098-44e5-a180-ff40b04c8bea.png)
+
+
+
+
+
 
 
 1）建立一个专门的数据库：点击 转到NoteExpress——数据库——新建数据库(记住该数据库存放的位置，有时候打开word，点转到NoteExpress的时候不会自动打开，这时候需要去该数据库存放的位置，手动点开。数据库中还可以再建立子数据库，就不一一列举。)
