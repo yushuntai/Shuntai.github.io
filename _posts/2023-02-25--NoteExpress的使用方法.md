@@ -42,7 +42,7 @@ excerpt: 实验方法与科研小技巧
 
 ![image](https://user-images.githubusercontent.com/61654690/221340943-7c887e1b-3df0-44af-82dd-a8317c6e38c6.png)
 
-选中文献——word中选择引用即可在word中插入文献
+选中文献——word中**选择引用**即可在word中插入文献
 
 ![image](https://user-images.githubusercontent.com/61654690/221340966-81bef8f5-7c0a-4989-96fd-8ca98b4cf3d0.png)
 
@@ -53,7 +53,6 @@ Word中插入文献——在library中选中文献——word中找到要插入�
 # 更改文章中文献的插入方式
 
 ![image](https://user-images.githubusercontent.com/61654690/221339641-f178fd86-4aa5-4efc-ad15-00d1b7ee2911.png)
-
 
 
 # 插入文献更快捷的方式
