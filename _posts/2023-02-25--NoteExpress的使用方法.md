@@ -91,6 +91,7 @@ Word中插入文献——在library中选中文献——word中找到要插入�
 注意：这里在删文献的时候，要注意删的是The dynein regulatory complex is the nexin link and a major regulatory node in  cilia and flagella 这篇文献，因为删除一个，编号就会重排一次。所以这也是为什么在word中提前将这几篇文献所在的位置用红色标记出来。因为一旦112号文献删除之后，之后的120号文献序号变了，但是题目并不会变，该文献所在word中的位置也不会变。
 
 在NoteExpress中将重复文献全部删除，只留一篇。
+将这篇文献插入文中红色处。
 
 # 知道PMID号的前提下一次性插入多篇文献
 
