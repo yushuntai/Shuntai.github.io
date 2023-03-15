@@ -76,7 +76,7 @@ Word中插入文献——在library中选中文献——word中找到要插入�
 
 **重复的文献名字：**The dynein regulatory complex is the nexin link and a major regulatory node in  cilia and flagella
 
-在word中去查找该文献，将文献号记下来，分别是112，120，122，130，132，145
+## 在word中去查找该文献，将文献号记下来，分别是112，120，122，130，132，145
 
 ![image](https://user-images.githubusercontent.com/61654690/225217075-023d6e18-f75b-49be-b9fb-f238dd9279b5.png)
 
