@@ -24,49 +24,38 @@ ACGTTATCGACTGCACGGTGCACCAATGCTTCTGGCGTCAGGCAGCCATCGGAAGCTGTGGTATGGCTGTGCAGGTCGTA
 
 
 ## 材料准备
-**Amp+ 抗性固体LB板子**：
-**1L LB液体培养基**：？？？
-**5M NaCl：** 584.4g in 1L ddH2O，过滤
-**1M Tris-Cl** pH7.6：121.14g in 1L ddH2O（HCl与NaOH调pH），过滤
-**1M 咪唑（imidazole）** pH7.4：68.077g in 1L ddH2O（HCl与NaOH调pH），过滤
-**1M IPTG**：4.766 g IPTG in 10ml ddH2O，过滤后冻存与-20℃，保存一年
-**1M DTT**：1.54 g DTT in 10ml ddH2O，过滤后冻存与-20℃，保存一年
-**6M盐酸胍+12ml乙酸（1L）**：先准备200-300ml ddH2O，加入573.18g盐酸胍，加ddH2O，再加乙酸，最后定容
-**1M NaOH**：40g in 1L ddH2O
-**0.5M EDTA（1L）**：186.12g in 1L ddH2O，过滤
-**0.5M NiSO4（1L）**：131.425g 六水合NiSO4 in 1L ddH2O，过滤
+**Amp+ 抗性固体LB板子**：<br>
+**1L LB液体培养基**：？？？<br>
+**5M NaCl：** 584.4g in 1L ddH2O，过滤<br>
+**1M Tris-Cl** pH7.6：121.14g in 1L ddH2O（HCl与NaOH调pH），过滤<br>
+**1M 咪唑（imidazole）** pH7.4：68.077g in 1L ddH2O（HCl与NaOH调pH），过滤<br>
+**1M IPTG**：4.766 g IPTG in 10ml ddH2O，过滤后冻存与-20℃，保存一年<br>
+**1M DTT**：1.54 g DTT in 10ml ddH2O，过滤后冻存与-20℃，保存一年<br>
+**6M盐酸胍+12ml乙酸（1L）**：先准备200-300ml ddH2O，加入573.18g盐酸胍，加ddH2O，再加乙酸，最后定容<br>
+**1M NaOH**：40g in 1L ddH2O<br>
+**0.5M EDTA（1L）**：186.12g in 1L ddH2O，过滤<br>
+**0.5M NiSO4（1L）**：131.425g 六水合NiSO4 in 1L ddH2O，过滤<br>
 
-	Binding buffer（1L）：
-50mM Tris-Cl	50ml 1M Tris-Cl pH7.6
-300mM NaCl	60ml 5M NaCl
-20 mM咪唑	20ml 1M 咪唑pH7.4
+**Binding buffer（1L）**：
+	
+|成分|加量|
+|:---:|:---:|
+|50mM Tris-Cl|50ml 1M Tris-Cl pH7.6|
+|300mM NaCl|60ml 5M NaCl|
+|20 mM咪唑|20ml 1M 咪唑pH7.4|
+
+过滤
+
+**Elution buffer（1L）**：
+|成分|加量|
+|:---:|:---:|
+|50mM Tris-Cl|50ml 1M Tris-Cl pH7.6|
+|300mM NaCl|60ml 5M NaCl|
+|250 mM咪唑|250ml 1M 咪唑pH7.4|
+
 过滤
 
 
-
-
-
-### 一、RNA提取
-
-1) 2个1.5ml 的 Rnase free 的EP管，各加500µL的TRIZOL。
-
-2) 钻头清洁干净，置于其中一个EP管里的TRIZOL泡着。
-
-3) 取小鼠一侧testis置于另一管TRIZOL中，用钻头充分打成匀浆，RT静置 5min。
-
-4) 100µL氯仿（ TRIZOL 的1/5体积），剧烈混匀15s， RT静置 3min，4℃ 12000X g 15min离心。
-
-5) 重复上步骤2-3次。
-
-6) 配1%胶。
-
-7) 250µL异丙醇（ TRIZOL 的1/2体积），轻柔颠倒20下，RT静置 10min，4℃ 12000X g 10min离心，弃液相。
-
-8) 加500µL （ TRIZOL 的1/1体积） 的75%酒精，摇匀，vortex， 4℃ 7500X g 5min离心。
-
-9) 弃上清，吸干液体，3-5min晾干。
-
-10)  加20µL水震荡混匀，65℃ 3min，立即置于冰上。
 
 11)  测RNA浓度，取2µ跑胶（1%胶 140V 15min），28s：18s=2:1，使用marker III 2000/1200/200各有一条带。（哺乳动物的RNA包括**mRNA**，**rRNA**，**tRNA**和**小RNA**，根据分子量和沉降系数的不同，**rRNA**又可分为**28s, 18s**和**5s rRNA**。从**RNA**的含量上看，**rRNA**是几种RNA中最多的，高达**90%**以上，而**mRNA**很少，只有**1-2%**，而其他两种**RNA**的分子量比较小，所以凝胶电泳的结果上只能看到三条带。而这**三条带的完整性，就代表了mRNA的完整性**，若三条带成弥散状，说明提取的RNA不太好。）
 
