@@ -27,7 +27,7 @@ Ni为**金属螯合亲和层析**又称为**固定金属离子亲和色谱**（i
 
 ![image](img src="https://github.com/yushuntai/yushuntai.github.io/assets/61654690/d32f4a62-1e5d-4ad7-a278-a5040808255e" width="20")
 
-<img src="https://github.com/yushuntai/yushuntai.github.io/assets/61654690/d32f4a62-1e5d-4ad7-a278-a5040808255e" width="20">
+<img src="https://github.com/yushuntai/yushuntai.github.io/assets/61654690/d32f4a62-1e5d-4ad7-a278-a5040808255e" width="100">
 在Ni柱的使用中，应当避免缓冲液中存在还原剂和螯合剂，以免Ni2+被还原而脱落。如果柱料使用太久积累了很多杂蛋白，可用EDTA将Ni2+螯合下来，再用NaOH清洗柱料后，重新螯合Ni离子，即可完成再生。平时不用时，应保存在20%乙醇中防止长菌。
 
 Ni柱的洗脱通常采用竞争洗脱，先用低浓度的咪唑将杂蛋白和结合不牢的蛋白洗去，再用合适的浓度将目的蛋白洗脱。洗脱的先后顺序与蛋白的结合能力相关。
