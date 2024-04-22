@@ -20,14 +20,8 @@ Ni柱中的氯化镍或者硫酸镍可以与有His(组蛋白)标签的碱性蛋�
 
 Ni为**金属螯合亲和层析**又称为**固定金属离子亲和色谱**（immobilized metal ion affinity chromatography，IMAC），1975年由Porath等发明。其纯化原理是利用蛋白质表面的组氨酸与多种过渡金属离子如Cu2+，Zn2+，Ni2+，Fe3+ 形成配位相互作用，从而吸附富含这类氨基酸的蛋白质，达到分离纯化的目的。因此，固定有这些金属离子的琼脂糖凝胶就能够选择性地纯化这类含有多个组氨酸的蛋白以及多肽和核苷酸。半胱氨酸和色氨酸与固定金属离子结合力要远小于组氨酸残基，对纯化影响不大。镍离子金属螯合亲和层析的螯合配基有**IDA、NTA、TED**等.镍离子有六个螯合价位,Ni-IDA螯合了三价,剩余三价;Ni-NTA螯合了四价,剩余两价;Ni-TED螯合了五价,剩余一价;即能与His tag结合的位点还剩3，2，1个。所以IDA与His tag结合力最强，特异性最弱，而TED则相反。我们在实际应用中常选择载量与特异性适中的NTA类型。
 
+<img src="https://github.com/yushuntai/yushuntai.github.io/assets/61654690/d32f4a62-1e5d-4ad7-a278-a5040808255e" width="500">
 
-
-![image](https://github.com/yushuntai/yushuntai.github.io/assets/61654690/d32f4a62-1e5d-4ad7-a278-a5040808255e)
-
-
-![image](img src="https://github.com/yushuntai/yushuntai.github.io/assets/61654690/d32f4a62-1e5d-4ad7-a278-a5040808255e" width="20")
-
-<img src="https://github.com/yushuntai/yushuntai.github.io/assets/61654690/d32f4a62-1e5d-4ad7-a278-a5040808255e" width="400">
 在Ni柱的使用中，应当避免缓冲液中存在还原剂和螯合剂，以免Ni2+被还原而脱落。如果柱料使用太久积累了很多杂蛋白，可用EDTA将Ni2+螯合下来，再用NaOH清洗柱料后，重新螯合Ni离子，即可完成再生。平时不用时，应保存在20%乙醇中防止长菌。
 
 Ni柱的洗脱通常采用竞争洗脱，先用低浓度的咪唑将杂蛋白和结合不牢的蛋白洗去，再用合适的浓度将目的蛋白洗脱。洗脱的先后顺序与蛋白的结合能力相关。
