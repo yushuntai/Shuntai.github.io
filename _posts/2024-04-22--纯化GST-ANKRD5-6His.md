@@ -23,7 +23,8 @@ Ni为**金属螯合亲和层析**又称为**固定金属离子亲和色谱**（i
 
 ![5830891962874604390724beb72725f3_b09c82f355d4472781a6ba95568bb8fa](https://github.com/yushuntai/yushuntai.github.io/assets/61654690/dcd733a8-9f95-4008-9bc1-068484b81421)
 
-![image](https://github.com/yushuntai/yushuntai.github.io/assets/61654690/246110a1-be7b-4d79-ae83-20b1fa306ca7)
+![image]
+(https://github.com/yushuntai/yushuntai.github.io/assets/61654690/246110a1-be7b-4d79-ae83-20b1fa306ca7)
 
 
 
