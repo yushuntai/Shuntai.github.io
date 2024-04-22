@@ -18,6 +18,132 @@ excerpt: 实验方法与科研小技巧
 
 ### 一、RNA提取
 
+
+纯化GST-hSpout1-6His
+1. 材料
+1.1. 提前准备（一份量）
+一个	LB板子
+15ml	2YT培养基
+1L	LB培养基
+
+1.2. 储液配置（1L）
+	5M NaCl：584.4g in 1L ddH2O，过滤
+	1M Tris-Cl pH7.6：121.14g in 1L ddH2O（HCl与NaOH调pH），过滤
+	1M 咪唑（imidazole） pH7.4：68.077g in 1L ddH2O（HCl与NaOH调pH），过滤
+
+1.3. 溶液配置
+	1M IPTG：4.766 g IPTG in 10ml ddH2O，过滤后冻存与-20℃，保存一年
+	1M DTT：1.54 g DTT in 10ml ddH2O，过滤后冻存与-20℃，保存一年
+	6M盐酸胍+12ml乙酸（1L）：先准备200-300ml ddH2O，加入573.18g盐酸胍，加ddH2O，再加乙酸，最后定容
+	1M NaOH：40g in 1L ddH2O
+	0.5M EDTA（1L）：186.12g in 1L ddH2O，过滤
+	0.5M NiSO4（1L）：131.425g 六水合NiSO4 in 1L ddH2O，过滤
+	Binding buffer（1L）：
+50mM Tris-Cl	50ml 1M Tris-Cl pH7.6
+300mM NaCl	60ml 5M NaCl
+20 mM咪唑	20ml 1M 咪唑pH7.4
+过滤
+	Elution buffer（1L）：
+50mM Tris-Cl	50ml 1M Tris-Cl pH7.6
+300mM NaCl	60ml 5M NaCl
+20 mM咪唑	250ml 1M 咪唑pH7.4
+过滤
+	PBS-DTT（现用现配）：PBS + 200x DTT（1M）
+	GST elution pH7.5（现用现配）（10ml）：
+50mM Tris-Cl	0.5ml 1M Tris-Cl pH7.6
+300mM NaCl	0.6ml 5M NaCl
+20mM 还原性谷胱甘肽（GSH，分子量307）	0.06g
+HCl与NaOH调pH到7.5
+
+1.4. 其他试剂
+	快染液：SDS-PAGE蛋白胶染液，睿博兴科，RB010-500 （灵敏度为100ng） 
+	Bradford：Quick Start Bradford 1x Dye Reagent，BIO-RAD，50000205
+	Ni柱：ProteinIso® Ni-NTA Resin，全式金，DP101-01
+	GST柱：Glutathione Beads 4FF，天地人和，SA010100
+2. 方法
+第一天
+晚上	将冻存菌液划板
+
+第二天（需约6h，在10-12点之间开始实验是比较合适的）
++3h	挑6-8个克隆，接到15ml 2YT培养基（含抗生素）
++2h	将10ml菌液接到1L LB培养基（含抗生素）中
+220rpm 37℃，OD600到0.8-1.0
++0.5h	冰浴降温至低于18℃，加入500ul 1M IPTG
++16h	200rpm 18℃ 16h
+
+在收细菌之前先平衡Ni柱与GST柱
+	Ni柱重生
+如果柱子保存在ddH2O中，
+8倍体积binding buffer
+如果柱子保存在20%乙醇中，
+8倍体积 ddH2O
+8倍体积binding buffer
+	GST柱重生
+如果柱子保存在ddH2O中，
+8倍体积PBS-DTT
+如果柱子保存在20%乙醇/PBS中，
+8倍体积ddH2O
+8倍体积 PBS-DTT
+
+第三天（需约14h（Ni柱7h+GST柱7h），9点前开始试验可以做完整个流程（这样最好），若下午开始则只能做完Ni柱，可以将洗脱样品放于4℃，第二天过GST）
++0.5h	4000rpm 30min离心收菌  （此处可以液氮冻存）
++1h	用binding buffer重悬（先加40ml重悬，再用40ml冲洗），超声前混匀
+（*留样，样品1-菌液）
+55%功率 3s on 7s off 有效时间3min*2（总时间10min*2），中间混匀，补充冰
++1.5h	18000rpm 4℃ 1h离心，用0.45um滤膜过滤上清液，混匀
+（*留样，样品2-裂解液）
++1h	样品上柱过两次（不要用针头引流），收集穿出液
+（*留样，样品3-Ni穿出）
++0.5h	10倍体积binding buffer洗涤
++0.5h	5倍体积 elution buffer洗脱，注意每流出1ml时，测蛋白浓度
+取10μl穿出+10ul快染液，看颜色变化，如果水平低且趋于不变，则停止收样
+或用nanodrop测OD280，看吸收曲线，如果水平低且趋于不变，则停止收样
+若还有很多样品，则继续洗脱
+（*留样，样品4-Ni洗脱）
++2h	若短时间内还会使用
+10倍体积ddH2O洗柱，放于4℃
+若长时间不用，
+10倍体积binding buffer
+10倍体积ddH2O洗柱
+10倍体积20%乙醇，储存于20%酒精，放于4℃
+若柱子纯化一个蛋白使用超过三次或用于纯化另一个蛋白，则需要重生
+5倍体积 6M盐酸胍+乙酸
+10倍体积 ddH2O
+5倍体积0.5M EDTA
+10倍体积 ddH2O 
+5倍体积 NiSO4
+10倍体积ddH2O（若短期保存，则留部分液体直接储存于4℃）
+10倍体积20%乙醇（若长期保存，则留部分液体直接储存于4℃）
++2h	将buffer置换为PBS-DTT，超滤管4000rpm 4℃离心
++2h	与重生好的GST beads 4℃旋转孵育2h
++0.5h	上柱，收穿出
+（*留样，样品5-GST穿出）
++0.5h	10倍体积PBS-DTT洗涤
++0.5h	用2倍体积GST elution buffer洗脱，
+混匀后收样
+（*留样，样品6-GST洗脱）
+跑胶，快染液10min-2h，后用水洗
++1.5h	浓缩到1mg/ml
+同时重生GST柱子
+10倍体积ddH2O洗柱
+5倍体积 6M盐酸胍
+10倍体积 ddH2O（若短期保存，则留部分液体直接储存于4℃）
+10倍体积20%乙醇/PBS（若长期保存，则留部分液体直接储存于4℃）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1) 2个1.5ml 的 Rnase free 的EP管，各加500µL的TRIZOL。
 
 2) 钻头清洁干净，置于其中一个EP管里的TRIZOL泡着。
