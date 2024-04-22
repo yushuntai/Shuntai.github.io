@@ -19,7 +19,7 @@ ACGTTATCGACTGCACGGTGCACCAATGCTTCTGGCGTCAGGCAGCCATCGGAAGCTGTGGTATGGCTGTGCAGGTCGTA
 
 ```
 
-## 材料准备
+# 材料准备
 **Amp+ 抗性固体LB板子**：<br>
 **1L LB液体培养基**：？？？<br>
 **5M NaCl：** 584.4g in 1L ddH2O，过滤<br>
@@ -63,13 +63,12 @@ ACGTTATCGACTGCACGGTGCACCAATGCTTCTGGCGTCAGGCAGCCATCGGAAGCTGTGGTATGGCTGTGCAGGTCGTA
 
 HCl与NaOH调pH到7.5
 
-
-
 **快染液**：SDS-PAGE蛋白胶染液，睿博兴科，RB010-500 （灵敏度为100ng） <br>
 **Bradford**：Quick Start Bradford 1x Dye Reagent，BIO-RAD，50000205<br>
 **Ni柱**：ProteinIso® Ni-NTA Resin，全式金，DP101-01<br>
 **GST柱**：Glutathione Beads 4FF，天地人和，SA010100<br>
 
+# 摇菌
 将质粒转化BL21感受态，涂板子，过夜生长。<br>
 挑6-8个克隆，接到15ml Amp+ LB培养基。<br>
 将6ml菌液接到1L Amp+ LB培养基中。<br>
@@ -77,49 +76,53 @@ HCl与NaOH调pH到7.5
 冰浴降温至低于18℃，加入500ul 1M IPTG <br>
 200rpm 18℃ 16h<br>
 
-
-
+# 破菌
 5000rpm 30min离心收菌  （此处可以液氮冻存）。<br>
 用binding buffer重悬（先加40ml重悬，再用40ml冲洗），超声前混匀（*留样，样品1-菌液）。<br>
 55% 功率 3s on 7s off 有效时间3min* 2（总时间10min*2），中间混匀，补充冰。<br>
 12000 rpm 4℃ 1h离心，用0.45um滤膜过滤上清液，混匀（*留样，样品2-裂解液）。<br>
-样品上柱，4℃旋转20min，冰上静置20min，收集穿出液，（*留样，样品3-Ni穿出）<br>
-10倍体积binding buffer洗涤
-+0.5h	5倍体积 elution buffer洗脱，注意每流出1ml时，测蛋白浓度
-取10μl穿出+10ul快染液，看颜色变化，如果水平低且趋于不变，则停止收样
-或用nanodrop测OD280，看吸收曲线，如果水平低且趋于不变，则停止收样
-若还有很多样品，则继续洗脱
-（*留样，样品4-Ni洗脱）
-+2h	若短时间内还会使用
-10倍体积ddH2O洗柱，放于4℃
-若长时间不用，
-10倍体积binding buffer
-10倍体积ddH2O洗柱
-10倍体积20%乙醇，储存于20%酒精，放于4℃
-若柱子纯化一个蛋白使用超过三次或用于纯化另一个蛋白，则需要重生
-5倍体积 6M盐酸胍+乙酸
-10倍体积 ddH2O
-5倍体积0.5M EDTA
-10倍体积 ddH2O 
-5倍体积 NiSO4
-10倍体积ddH2O（若短期保存，则留部分液体直接储存于4℃）
-10倍体积20%乙醇（若长期保存，则留部分液体直接储存于4℃）
-+2h	将buffer置换为PBS-DTT，超滤管4000rpm 4℃离心
-+2h	与重生好的GST beads 4℃旋转孵育2h
-+0.5h	上柱，收穿出
-（*留样，样品5-GST穿出）
-+0.5h	10倍体积PBS-DTT洗涤
-+0.5h	用2倍体积GST elution buffer洗脱，
-混匀后收样
-（*留样，样品6-GST洗脱）
-跑胶，快染液10min-2h，后用水洗
-+1.5h	浓缩到1mg/ml
-同时重生GST柱子
-10倍体积ddH2O洗柱
-5倍体积 6M盐酸胍
-10倍体积 ddH2O（若短期保存，则留部分液体直接储存于4℃）
-10倍体积20%乙醇/PBS（若长期保存，则留部分液体直接储存于4℃）
 
+# 过柱子
+
+## 平衡柱子
+在收细菌之前先平衡Ni柱与GST柱
+### Ni柱平衡
+若柱子是在ddH2O中保存的: 8倍体积binding buffer
+若柱子是在20%乙醇中保存的: 8倍体积 ddH2O + 8倍体积binding buffer
+
+### GST柱平衡
+若柱子是在ddH2O中保存的: 8倍体积PBS-DTT
+若柱子是在20%乙醇中保存的: 8倍体积ddH2O + 8倍体积 PBS-DTT
+
+## 过Ni柱
+样品上柱，4℃旋转20min，冰上静置20min，收集穿出液，（*留样，样品3-Ni穿出）<br>
+10倍体积binding buffer洗涤<br>
++0.5h	5倍体积 elution buffer洗脱，注意每流出1ml时，测蛋白浓度<br>
+取10μl穿出+10ul快染液，看颜色变化，如果水平低且趋于不变，则停止收样<br>
+或用nanodrop测OD280，看吸收曲线，如果水平低且趋于不变，则停止收样<br>
+若还有很多样品，则继续洗脱（*留样，样品4-Ni洗脱）<br>
+若短时间内还会使用则: 10倍体积ddH2O洗柱，放于4℃<br>
+若长时间不用则: 10倍体积binding buffer + 10倍体积ddH2O洗柱 + 10倍体积20%乙醇，储存于20%酒精，放于4℃<br>
+
+## 过GST柱
+通过蛋白超滤管将buffer置换为PBS-DTT，超滤管4000rpm 4℃离心.<br>
+与重生好的GST beads 4℃旋转孵育2h.<br>
+上柱，收穿出（*留样，样品5-GST穿出）.<br>
+10倍体积PBS-DTT洗涤.<br>
+用3~5倍体积GST elution buffer洗脱.<br>
+
+
+
+# 柱子重生
+
+## Ni柱重生
+若柱子纯化一个蛋白使用超过三次或用于纯化另一个蛋白，则需要重生: 5倍体积 6M盐酸胍+乙酸 +  10倍体积ddH2O + 5倍体积0.5M EDTA + 10倍体积 ddH2O + 5倍体积 NiSO4 + 10倍体积ddH2O（若短期保存，则留部分液体直接储存于4℃） + 10倍体积20%乙醇（若长期保存，则留部分液体直接储存于4℃）.<br>
+
+## GST柱重生
+10倍体积ddH2O洗柱<br>
+5倍体积 6M盐酸胍<br>
+10倍体积 ddH2O（若短期保存，则留部分液体直接储存于4℃）<br>
+10倍体积20%乙醇/PBS（若长期保存，则留部分液体直接储存于4℃）<br>
 
 
 
