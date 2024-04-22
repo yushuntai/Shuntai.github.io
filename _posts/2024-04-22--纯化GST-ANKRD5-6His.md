@@ -17,7 +17,7 @@ excerpt: 实验方法与科研小技巧
 
 ## IPTG诱导蛋白表达的原理
 
-<img src="https://github.com/yushuntai/yushuntai.github.io/assets/61654690/50159825-7af0-46d4-afe7-d07187dfe9c2" width="666">
+<img src="https://github.com/yushuntai/yushuntai.github.io/assets/61654690/0a1bf54f-3758-4eb3-ae42-436f95a5a8c4" width="666">
 
 ## Ni柱纯化蛋白原理
 Ni柱中的氯化镍或者硫酸镍可以与有His(组蛋白)标签的碱性蛋白或者咪唑结合.Ni-NTA纯化介质是把螯合剂NTA共价偶联到琼脂糖介质上，然后再螯合Ni2+制备而成。NTA能够通过四个位点牢固的螯合Ni2+从而减少纯化过程中Ni2+泄露到蛋白样品中。Ni-NTA纯化介质可以纯化任何表达系统(原核，酵母，昆虫细胞和哺乳动物细胞等表达系统)表达的天然或变性的His-标签蛋白。结合在介质上的蛋白可以通过低pH缓冲液、咪唑溶液甚至组氨酸溶液洗脱下来。
