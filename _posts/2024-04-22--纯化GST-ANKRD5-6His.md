@@ -65,6 +65,17 @@ HCl与NaOH调pH到7.5
 
 
 
+**快染液**：SDS-PAGE蛋白胶染液，睿博兴科，RB010-500 （灵敏度为100ng） <br>
+**Bradford**：Quick Start Bradford 1x Dye Reagent，BIO-RAD，50000205<br>
+**Ni柱**：ProteinIso® Ni-NTA Resin，全式金，DP101-01<br>
+**GST柱**：Glutathione Beads 4FF，天地人和，SA010100<br>
+
+将质粒转化BL21感受态，涂板子，过夜生长。<br>
+挑6-8个克隆，接到15ml Amp+ LB培养基。<br>
+将6ml菌液接到1L Amp+ LB培养基中。<br>
+240rpm 37℃，OD600到0.8-1.0（约2h）<br>
+冰浴降温至低于18℃，加入500ul 1M IPTG <br>
+200rpm 18℃ 16h<br>
 
 
 
