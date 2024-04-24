@@ -14,6 +14,11 @@ excerpt: 实验方法与科研小技巧
 {:toc}
 
 # BACKGROUND
+## 表达系统介绍
+[总概篇：真核表达系统（第一弹）——酵母表达系统](https://mp.weixin.qq.com/s?__biz=Mzg4Nzc1MDYyOQ==&mid=2247485104&idx=1&sn=d2c26bd6dfaa766dda0eb9d93a55948e&chksm=cf84ec3af8f3652c503be8164f422309e1b85b123bf9f5df522b592f0b929f41ca41af5c4c52&scene=21#wechat_redirect)
+[真核表达系统第二弹（上）—哺乳动物细胞表达系统](https://mp.weixin.qq.com/s?__biz=Mzg4Nzc1MDYyOQ==&mid=2247485173&idx=1&sn=1e7e93509754f88292ca9e46f6ee6f49&chksm=cf84ec7ff8f365695fbd1f2ec34cf81bb65ad4d6a892e66ec632f38a29a96fa7f7d65f92153a&scene=21#wechat_redirect)
+[真核表达系统第二弹（下）——哺乳动物细胞表达系统](https://mp.weixin.qq.com/s?__biz=Mzg4Nzc1MDYyOQ==&mid=2247485183&idx=1&sn=cdd6b00144d89c4ca4488e1ca16b9ef5&chksm=cf84ec75f8f365639205f9a6c9c2d28a7cb4113ed079ec54c23965e9fe54403cbadaa24f20d0&scene=21#wechat_redirect)
+[真核表达系统（第三弹）—昆虫杆状病毒表达系统](https://mp.weixin.qq.com/s/mC6hXcGTd4j-GiWi7Ai3AA)
 
 ## 蛋白表达需要用表达型菌株感受态。
 启动子需要与 RNA聚合酶结合启动DNA转录。质粒的T7启动子需要T7 RNA聚合酶才能发挥功能。感受态BL21、BL21(DE3)及BL21(DE3) pLysS不一样。<br>
