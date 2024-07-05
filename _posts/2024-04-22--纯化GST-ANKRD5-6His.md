@@ -31,6 +31,8 @@ excerpt: 实验方法与科研小技巧
 
 ## IPTG诱导蛋白表达的原理
 
+**一言以蔽之，基因表达需要操纵基因，而Lac阻遏物会抑制操纵基因，IPTG可以与Lac阻遏物结合从而解除对操纵基因的抑制，使基因表达。**
+
 原核生物绝大多数基因按功能相关性成簇排列，且密集于染色体上，共同形成一个转录单位——操纵子（元），也称基因表达的协同单位(a coordinated unit of gene expression)。E.coli的乳糖操纵子（元）含Z、Y及A三个结构基因，分别编码β-半乳糖苷酶（β-galactosidase）、通透酶（permease）和乙酰基转移酶（transacetylase)；此外还有调控基因：操纵序列O（operator）、启动序列P（promoter）；而I(编码Lac阻遏物，Lac repressor)不属于乳糖操纵子。<br>
 没有乳糖存在时，Lac阻遏物与操纵基因O结合，阻碍RNA聚合酶与P序列结合，抑制转录启动。<br>
 当有诱导剂与Lac阻遏物结合使其蛋白构象发生变化，致阻遏物从操纵基因O上解离下来，RNA聚合酶不再受阻碍，转录启动。<br>
