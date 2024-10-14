@@ -13,6 +13,12 @@ excerpt: 实验方法与科研小技巧
 * content
 {:toc}
 
+# 将别人发你的word文档以及参考文献整合进你的文档
+
+
+
+
+
 # 找到文章中参考文献所对应的library
 
 ![图片2](https://user-images.githubusercontent.com/61654690/221338814-bdff4f39-b0c5-46d6-b8aa-f3ac392fab7f.png)
