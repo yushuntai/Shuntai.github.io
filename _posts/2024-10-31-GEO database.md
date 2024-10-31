@@ -42,20 +42,24 @@ GEO数据处理7个步骤：<br>
 [GEO数据库挖掘](https://mp.weixin.qq.com/s/XynaAMHKjuejixXxxVB7Vw)
 
 ```R
-
-library(GEOquery)
-
 #  gset <- getGEO("GSE735566", GSEMatrix=TRUE, AnnotGPL=TRUE, destdir=".")
 setwd("D:/data")
-
 Rawdata=read.table('GSE182373_series_matrix.txt.gz', sep = '\t', quote ="", fill = T, comment.char = "!", header = T);head(Rawdata)
 #读进来发现第一列的字符串带有引号，写循环太麻烦，用quote=F手动给去掉一下
 write.table(Rawdata, file = "test.csv",sep=",", row.names = F,quote = F)
-
 Raw2=read.table('test.csv',sep=",",header=T);head(Raw2)
-rownames(Raw2)=Raw2[,1];head(Raw2)
-Raw2=Raw2[,-1];head(Raw2)
-rownames(Raw2)
+rownames(Raw2)=Raw2[,1];head(Raw2)   #将第1列命名给行
+Raw2=Raw2[,-1];head(Raw2)   # 将命名后的文件第1列删除。
+```
+
+# 下载注释文件+基因symbol ID
+
+现在得到的data.frame列名是样本名，行名是探针ID，我们要得到 行名是 gene symbol 的表达矩阵。将探针ID转成gene symbol的方法
+1:
+
+```R
+
+
 
 
 ```
