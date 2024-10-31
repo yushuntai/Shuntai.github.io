@@ -62,10 +62,16 @@ Raw2=Raw2[,-1];head(Raw2)   # 将命名后的文件第1列删除。
 
 
 ```R
-install.packages('data.table')
-library(data.table)
-b=fread('GPL23159-69552.txt',data.table = F)[,c(2,10)] #提取表中我要的列:ID名和gene symbol所在的列
+# 查找注释包
+library(devtools)
+library(GEOquery)
+library(AnnoProbe)
+install.packages("AnnoProbe")
+checkGPL(GPL = "GPL23159")   #这里填写对应的GPL号，如果有就返回TRUE，如果没有就会返回FALSE
 
+# 由于没有GPL23159这个注释包，所以只能手动去下载，然后读取。
+library(data.table)
+b=fread('GPL23159-184565.txt',data.table = F)[,c(2,10)] #提取表中我要的列:ID名和gene symbol所在的列
 
 
 ```
