@@ -25,7 +25,7 @@ Profiles:表达谱数据存储了来自与DataSets基因表达谱信息。每一
 [GEO数据库官网](https://www.ncbi.nlm.nih.gov/geo/)
 
 
-GEO数据处理7个步骤：
+GEO数据处理7个步骤：<br>
 1、下载GEO矩阵数据 <br>
 2、数据进行标准化，并通过箱线图对比标准化前后结果 <br>
 3、下载平台注释文件进行ID转换：将探针ID数据匹配到Symbol上 <br>
@@ -34,6 +34,12 @@ GEO数据处理7个步骤：
 6、差异基因可视化：热图、火山图 <br>
 7、KEGG通路分析、GO分析、GSEA分析 <br>
 
+
+
+
+# 数据查询与下载+读取
+
+[GEO数据库挖掘](https://mp.weixin.qq.com/s/XynaAMHKjuejixXxxVB7Vw)
 
 ```R
 
