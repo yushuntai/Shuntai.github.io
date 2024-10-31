@@ -55,7 +55,11 @@ Raw2=Raw2[,-1];head(Raw2)   # 将命名后的文件第1列删除。
 # 下载注释文件+基因symbol ID
 
 现在得到的data.frame列名是样本名，行名是探针ID，我们要得到 行名是 gene symbol 的表达矩阵。将探针ID转成gene symbol的方法
-1:
+方法一：如果很幸运的话，文章里用到的芯片是比较常用的芯片，在各个平台都可以搜到注释包，例如GPL15396的注释包就为hthgu133b.db，然后直接library这个包就可以了.
+方法二：点击GEO数据库下载页面的 GPL，如果有上传注释包的话就可以直接下载，下载完之后，直接到 下文1.4 步骤接着往下做
+
+![image](https://github.com/user-attachments/assets/cbe20ef0-5892-40fe-a6d6-1a01cb252855)
+
 
 ```R
 
