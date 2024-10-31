@@ -62,7 +62,9 @@ Raw2=Raw2[,-1];head(Raw2)   # 将命名后的文件第1列删除。
 
 
 ```R
-
+install.packages('data.table')
+library(data.table)
+b=fread('GPL23159-69552.txt',data.table = F)[,c(2,10)] #提取表中我要的列:ID名和gene symbol所在的列
 
 
 
