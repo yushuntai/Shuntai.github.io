@@ -28,6 +28,26 @@ Profiles:表达谱数据存储了来自与DataSets基因表达谱信息。每一
 
 
 
+```R
+
+library(GEOquery)
+
+#  gset <- getGEO("GSE735566", GSEMatrix=TRUE, AnnotGPL=TRUE, destdir=".")
+setwd("D:/data")
+
+Rawdata=read.table('GSE182373_series_matrix.txt.gz', sep = '\t', quote ="", fill = T, comment.char = "!", header = T);head(Rawdata)
+#读进来发现第一列的字符串带有引号，写循环太麻烦，用quote=F手动给去掉一下
+write.table(Rawdata, file = "test.csv",sep=",", row.names = F,quote = F)
+
+Raw2=read.table('test.csv',sep=",",header=T);head(Raw2)
+rownames(Raw2)=Raw2[,1];head(Raw2)
+Raw2=Raw2[,-1];head(Raw2)
+rownames(Raw2)
+
+
+```
+
+
 
 
 
