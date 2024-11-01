@@ -74,6 +74,56 @@ library(data.table)
 b=fread('GPL23159-184565.txt',data.table = F)[,c(2,10)] #提取表中我要的列:ID名和gene symbol所在的列
 
 
+
+library(stringr)
+b$gene=str_split(b$SPOT_ID,'//',simplify = T)[,3]
+
+library(DT) # 用于表格显示
+datatable(b)
+
+# 用“//”分割之后，发现gene列里我们要的symbol仍然困在括号里，然后用正则表达式去提取括号里的gene symbol：
+pattern <- ".*\\((?<ID>[A-Za-z0-9]*)\\),.*"
+res <- stringr::str_match(string = b$gene, pattern = pattern)
+geneID <- res[,2]
+head(geneID)
+b$gene=geneID
+ids <- b[,-2];head(ids) #将第2列删除
+
+
+# Step2: 基因symbol ID转换
+exprSet=Raw2   
+#探针与基因是多对一的关系
+#对symbol去重然后查看长度，可以看到总共有多少个基因
+length(unique(ids$gene))
+#统计gene symbol中每个基因出现的次数，然后排序取其尾部
+#所得结果可以看出对应探针数目最多的基因
+tail(sort(table(ids$gene)))
+#统计对应不同探针数目的基因
+table(sort(table(ids$gene)))
+plot(table(sort(table(ids$gene))))
+
+#统计exprSet中的probe ID与ids中probe ID对应情况
+# 直接从GEO网站下载的注释信息，所以对应出来的全是TRUE，如果是用注释包的话，随着包更新与否，一般同时会有大一部分是TRUE，一小部分是FALSE
+table(rownames(exprSet) %in% ids$probeset_id)
+
+# %in%为二元操作符，返回其左操作数长度的逻辑向量，指示其中的元素是否匹配
+exprSet<-exprSet[(rownames(exprSet) %in% ids$probeset_id),]
+dim(exprSet)
+#将ids中与exprSet不对应的探针删去#match返回其第一个参数在第二参数中的（第一个）匹配位置的向量
+ids<-ids[match(rownames(exprSet),ids$probeset_id),]
+dim(ids)
+
+
+head(ids)
+exprSet[1:4,1:4] #首先根据ids中的gene symbol，在exprSet中进行匹配，找到对应的行，计算平均表达量#挑选出平均表达量最大一行，将其探针名保留
+tmp<-by(exprSet,ids$gene,function(x) rownames(x) [which.max(rowMeans(x))])
+tmp[1:20]#将tmp转为字符型
+probes<-as.character(tmp) #保留在所有样本里面表达最大的那个探针
+exprSet<-exprSet[rownames(exprSet) %in% probes, ]
+dim(exprSet)
+dim(ids)#注意此时exprSet和ids的行数不同，需要把ids中多余的行去掉
+rownames(exprSet)<-ids[match(rownames(exprSet),ids$probeset_id),2]
+write.csv(exprSet, file = "GBM_expr.csv",sep=",", row.names = T,quote = F)
 ```
 
 
