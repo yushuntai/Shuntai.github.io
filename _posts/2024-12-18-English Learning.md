@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  " English Learning"
-tags: 实验方法与科研小技巧
+tags: English learning
 date:   2024-12-18
 categories: Front-end JavaScript
-excerpt: 实验方法与科研小技巧
+excerpt: English
 ---
 
 **目录：**
