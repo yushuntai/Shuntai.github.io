@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1111111
-date: 2020-09-29 23:18 +0800
+date: 2020-09-29 
 last_modified_at: 2020-10-01 01:08:25
 tags: 教程
 toc:  true
@@ -9,7 +9,7 @@ toc:  true
 {: .message }
 
 
-# A
+# A1
 
 ## AA
 
