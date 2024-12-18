@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  " GEO database"
+title:  " English Learning"
 tags: 实验方法与科研小技巧
-date:   2024-10-31
+date:   2024-12-18
 categories: Front-end JavaScript
 excerpt: 实验方法与科研小技巧
 ---
