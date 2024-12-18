@@ -6,7 +6,7 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: 教程
 toc:  true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
+
 {: .message }
 
 
