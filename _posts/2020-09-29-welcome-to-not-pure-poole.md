@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Not Pure Poole
+title: Not Pure Poole教程
 date: 2020-09-29 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
 tags: 教程
@@ -167,3 +167,48 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>
 
 [^fn-sample_footnote]: Handy! Now click the return link to go back.
+
+# A
+
+A
+
+## AA
+
+AA
+
+### AAA
+
+AAA
+
+#### AAAA
+
+AAAA
+
+## 链接
+
+[MathJax](https://www.mathjax.org/)
+
+## 公式
+
+An inline math: \\\(E=mc^2\\\).
+
+![image](https://github.com/user-attachments/assets/875aef44-26e7-43a5-8023-e339a070849f)
+
+
+必须要像图片中设置才可以，否则公式出不来
+
+A display math:
+
+$$
+i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
+\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
+$$
+
+## 添加两个Tag
+
+![image](https://github.com/user-attachments/assets/5c9dbe70-4a77-43ac-b326-f95b6458a2dc)
+
+## 引用前加竖杠
+
+> [*to see Copy Zhihu, click here*](http://gaohaoyang.github.io/works/bootstrap-zhihu/)   
+
