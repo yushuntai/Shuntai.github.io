@@ -196,7 +196,7 @@ An inline math: \\\(E=mc^2\\\).
 ![image](https://github.com/user-attachments/assets/875aef44-26e7-43a5-8023-e339a070849f)
 
 
-必须要像图片中设置才可以，否则公式出不来
+红框处这样设置才能显示公式，若去掉则公式显示呈现源代码，
 
 A display math:
 
@@ -209,7 +209,7 @@ $$
 
 ![image](https://github.com/user-attachments/assets/52d9c9a6-db49-4d7b-821f-5d9cec7bc69f)
 
-红框处去掉不显示目录
+红框处这样设置才能显示目录，若去掉则不显示目录，不影响其他
 
 ## 添加两个Tag
 
