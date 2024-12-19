@@ -205,6 +205,12 @@ i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
 \frac{\partial^2 \Psi}{\partial x^2} + V \Psi
 $$
 
+## 目录
+
+![image](https://github.com/user-attachments/assets/52d9c9a6-db49-4d7b-821f-5d9cec7bc69f)
+
+红框处去掉不显示目录
+
 ## 添加两个Tag
 
 ![image](https://github.com/user-attachments/assets/5c9dbe70-4a77-43ac-b326-f95b6458a2dc)
