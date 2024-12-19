@@ -3,7 +3,7 @@ layout: post
 title: Not Pure Poole教程
 date: 2020-09-29 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
-tags: 教程
+tags: 新tag
 toc:  true
 math:  true
 ---
@@ -222,3 +222,7 @@ $$
 ## 文章出现在多个tags中的方法
 
 ![image](https://github.com/user-attachments/assets/d0cdc842-4afe-46fa-ba55-1064fa5f11f0)
+
+## 新tag的创建
+
+
