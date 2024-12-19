@@ -210,7 +210,7 @@ $$
 
 ## 目录
 
-![image](https://github.com/user-attachments/assets/61ca0fdd-cdde-4236-b746-07488f906c33)
+![image](https://github.com/user-attachments/assets/e5c99478-9c91-4a1b-88d8-6bb79a6e41d0)
 
 红框处这样设置才能显示目录，若去掉则不显示目录，不影响其他
 
