@@ -38,7 +38,7 @@ coupon 优惠券
 
 
 
-[老友记](https://www.bilibili.com/video/BV1JYtee4ERR/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
+[老友记 片段-1](https://www.bilibili.com/video/BV1JYtee4ERR/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
 
 词汇：
 watch /wɑtʃ/ 照顾(小孩)
@@ -50,6 +50,10 @@ misjudge /,mɪs'dʒʌdʒ/ 判断错 错怪
 
 表达方式：  
 new leaf 新篇章
+
+[老友记 片段-2](https://www.bilibili.com/video/BV1bkqHY5ESU/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
+
+
 
 
 [小谢尔顿](https://www.bilibili.com/video/BV1AU411S7K7/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
