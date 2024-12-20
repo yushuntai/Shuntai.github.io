@@ -62,7 +62,7 @@ new leaf 新篇章
 ## 奥巴马
 
 [奥巴马给崔娃提出的建议](https://www.bilibili.com/video/BV1yV4y1c7B4/?spm_id_from=333.337.search-card.all.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
-
+[奥巴马肥伦秀](https://www.bilibili.com/video/BV19i4y1u7k2?spm_id_from=333.788.recommend_more_video.3&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
 
 # speaking
 
