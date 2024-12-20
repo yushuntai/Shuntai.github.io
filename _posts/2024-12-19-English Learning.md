@@ -27,6 +27,16 @@ coupon 优惠券
 
 [老友记](https://www.bilibili.com/video/BV1JYtee4ERR/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
 
+词汇：
+watch /wɑtʃ/ 照顾(小孩)
+owe /o/ 欠
+pompous /‘pampəs/ 自大  
+arrogant /‘ærəɡənt/ 傲慢 自大  
+obnoxious /əb'nɑkʃəs/ 讨人厌的  
+misjudge /,mɪs'dʒʌdʒ/ 判断错 错怪  
+
+表达方式：  
+new leaf 新篇章
 
 
 
