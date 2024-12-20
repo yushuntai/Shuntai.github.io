@@ -59,7 +59,9 @@ new leaf 新篇章
 
 [小谢尔顿](https://www.bilibili.com/video/BV1AU411S7K7/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
 
+## 奥巴马
 
+[奥巴马给崔娃提出的建议](https://www.bilibili.com/video/BV1yV4y1c7B4/?spm_id_from=333.337.search-card.all.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
 
 
 # speaking
