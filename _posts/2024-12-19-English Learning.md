@@ -67,6 +67,9 @@ new leaf 新篇章
 
 [奥巴马做客吉米秀](https://www.bilibili.com/video/BV13b4y147yP?spm_id_from=333.788.recommend_more_video.0&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
 
+[奥巴马最励志演讲：永远不要放弃自己](https://www.bilibili.com/video/BV1pc411u7Bu?spm_id_from=333.788.recommend_more_video.-1&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
+
+
 # speaking
 
 # reading 
