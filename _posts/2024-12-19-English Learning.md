@@ -29,6 +29,13 @@ coupon 优惠券
 [查莉生长日记 片段-2](https://www.bilibili.com/video/BV16P4sehEqb/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
 
 
+[查莉生长日记 片段-3](https://www.bilibili.com/video/BV1gQtpeyENa/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
+
+
+
+[查莉生长日记 片段-4](https://www.bilibili.com/video/BV1qZtYenEcQ/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
+
+
 
 
 [老友记](https://www.bilibili.com/video/BV1JYtee4ERR/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
