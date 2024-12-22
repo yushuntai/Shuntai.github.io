@@ -73,6 +73,9 @@ new leaf 新篇章
 
 [ “四遍法”学美剧，10天突破美剧听口（纯干/具体步骤）](https://www.bilibili.com/video/BV19cBFYdEeq/?spm_id_from=333.880.my_history.page.click&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
 
+不要看太老的美剧，比如《老友记》，很多语言老化，很多俚语已经不再用。把生活美剧和尽量简单的美剧做首选，
+
+四步法看美剧：
 
 
 
