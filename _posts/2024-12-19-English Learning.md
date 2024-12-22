@@ -89,7 +89,8 @@ new leaf 新篇章
 
 第三遍，关掉中文字幕，一句一句跟读里面的对白，里面的人物说一句，你说一句。
 
-第四遍，精听这一整集，对听懂美剧用途最大的是嘴巴一直在动，而不是只听。[精听法](https://www.bilibili.com/video/BV1Ja4y1R7Xx?spm_id_from=333.788.recommend_more_video.0&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)
+第四遍，精听这一整集，对听懂美剧用途最大的是嘴巴一直在动，而不是只听。[精听法](https://www.bilibili.com/video/BV1Ja4y1R7Xx?spm_id_from=333.788.recommend_more_video.0&vd_source=5da465d0f5f1a453e61fcdcd0524c2d4)   听一句、跟读一句、复述一句。跟读和复述要模仿主播的发音和节奏，跟读要完全一模一样，复述可以改动句子，但要表达一样的意思。
+
 
 
 
