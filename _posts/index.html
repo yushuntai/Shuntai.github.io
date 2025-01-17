@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amitabha Counts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f7f7f7;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 16px;
+            color: #555;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            text-align: center;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Amitabha Counts</h1>
+        <label for="inputCount">Enter the number of Amitabha chants this time:</label>
+        <input type="number" id="inputCount" placeholder="Enter count" min="0" />
+        <button onclick="updateTotal()">Update Total</button>
+        <div class="result">
+            <h2>Total Count: <span id="totalCount">0</span></h2>
+        </div>
+    </div>
+
+    <script>
+        // 获取存储的总计数，如果没有就设为0
+        let totalCount = localStorage.getItem('totalCount') ? parseInt(localStorage.getItem('totalCount')) : 0;
+
+        // 更新页面上的总计数显示
+        document.getElementById("totalCount").innerText = totalCount;
+
+        function updateTotal() {
+            const inputCount = document.getElementById("inputCount").value;
+            if (inputCount && !isNaN(inputCount) && Number(inputCount) > 0) {
+                totalCount += parseInt(inputCount);
+                // 更新本地存储中的总计数
+                localStorage.setItem('totalCount', totalCount);
+                // 更新页面显示的总计数
+                document.getElementById("totalCount").innerText = totalCount;
+                document.getElementById("inputCount").value = ''; // 清空输入框
+            } else {
+                alert('Please enter a valid number!');
+            }
+        }
+    </script>
+</body>
+</html>
