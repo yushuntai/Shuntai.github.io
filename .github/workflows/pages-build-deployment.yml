@@ -1,0 +1,30 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7.x
+
+    - name: Configure safe directory
+      run: git config --global --add safe.directory /github/workspace
+
+    - name: Install dependencies
+      run: |
+        gem install rake -v 12.3.3
+        gem install jekyll-compose -v 0.12.0
+
+    - name: Build site
+      run: bundle exec jekyll build
