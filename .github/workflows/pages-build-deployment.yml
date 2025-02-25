@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: pages-build-deployment
 
 on:
   push:
@@ -8,23 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: 检出存储库
+        uses: actions/checkout@v2
+        
+      - name: 设置安全目录
+        run: git config --global --add safe.directory /github/workspace
+        
+      - name: 安装缺少的 gems
+        run: |
+          gem install rake -v 12.3.3
+          gem install jekyll-compose -v 0.12.0
 
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.7.8
-
-    - name: Configure safe directory
-      run: git config --global --add safe.directory /github/workspace
-    
-    - name: Install dependencies
-      run: |
-        gem install rake -v 12.3.3
-        gem install jekyll-compose -v 0.12.0
-    
-    - name: Build site
-      run: bundle exec jekyll build
+      - name: 构建站点
+        uses: actions/jekyll-build-pages@v1.0.13
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
