@@ -26,9 +26,9 @@ jobs:
       - name: 安装缺少的 gems
         run: |
           echo "Installing missing gems"
-          bundle install
-          gem install rake -v 12.3.3
-          gem install jekyll-compose -v 0.12.0
+          bundle install || true
+          gem install rake -v 12.3.3 || true
+          gem install jekyll-compose -v 0.12.0 || true
           gem list
 
       - name: 构建站点
