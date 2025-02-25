@@ -11,16 +11,22 @@ jobs:
     steps:
       - name: 检出存储库
         uses: actions/checkout@v2
-        
+
       - name: 设置安全目录
         run: |
           echo "Setting up safe directory"
           git config --global --add safe.directory /github/workspace
           git config --global --list
 
+      - name: 安装 Bundler
+        run: |
+          echo "Installing Bundler"
+          gem install bundler
+
       - name: 安装缺少的 gems
         run: |
           echo "Installing missing gems"
+          bundle install
           gem install rake -v 12.3.3
           gem install jekyll-compose -v 0.12.0
           gem list
@@ -29,3 +35,8 @@ jobs:
         uses: actions/jekyll-build-pages@v1.0.13
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 显示目录内容
+        run: |
+          echo "Listing directory contents"
+          ls -al /github/workspace
